@@ -10,4 +10,4 @@ const TestContainer = () => {
     )
 }
 
-export default TestContainer
+export default TestContainer;
