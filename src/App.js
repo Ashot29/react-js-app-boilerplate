@@ -6,7 +6,7 @@ function App() {
     return (
         <Router>
             {/*Layout must be wrapped into authenticationWrapper*/}
-            <Layout/>
+            <Layout />
         </Router>
     );
 }
